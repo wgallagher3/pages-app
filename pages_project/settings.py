@@ -25,7 +25,7 @@ SECRET_KEY = 'g_umy^hr=dcgqt80#cfq$icmu!=_b060zqpsv*qb3k@%bi6)ch'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['a']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
